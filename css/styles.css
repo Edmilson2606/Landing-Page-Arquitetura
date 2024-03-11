@@ -13,7 +13,7 @@
 #sectionHeaderTitle{
     padding: 206px 0px 0px 62px;
     font-size: 60px;
-    font-weight: 600;
+    font-weight: 600pc;
 }
 
 #sectionHeaderText{
@@ -93,5 +93,5 @@ button{
 button:hover{
     transform: translateY(-7px);
     transition-duration: 0.5s;
-    box-shadow: 0px 15px 20px #7a4f1a;
+    box-shadow: 0px 15px 20px rgba(184, 101, 7, 0.562);
 }

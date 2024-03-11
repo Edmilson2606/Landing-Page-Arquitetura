@@ -93,5 +93,5 @@ button{
 button:hover{
     transform: translateY(-7px);
     transition-duration: 0.5s;
-    box-shadow: 0px 15px 20px rgba(184, 101, 7, 0.562);
+    box-shadow: 0px 15px 20px rgba(97, 95, 94, 0.514);
 }

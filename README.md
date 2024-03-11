@@ -5,11 +5,12 @@ Esta Landing Page foi desenvolvida para uma empresa de arquitetura com base nos 
 
 ![](./img/imgLayout.png)
 
-
+Link do site disponibilizado:
 ```sh
-Link do site disponibilizado: https://landingpagearquiterura.netlify.app/
+ https://landingpagearquiterura.netlify.app/
 ```
 
+Link da planilha de registro de informação:
 ```sh
-Link da planilha de registro de informação: https://docs.google.com/spreadsheets/d/1eBFmm0RU_ISCG3woW7o8n8vdlu0rXDl1oTvM52uqRoI/edit#gid=0
+ https://docs.google.com/spreadsheets/d/1eBFmm0RU_ISCG3woW7o8n8vdlu0rXDl1oTvM52uqRoI/edit#gid=0
 ```
